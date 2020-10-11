@@ -55,7 +55,7 @@ colnames(activities) <- c("activityId", "activityLabel")
 
 
 
-colnames(CompleteDataSet) <- c("Subject", features[, 2], "Activity")      #set the original colnames 
+colnames(CompleteDataSet) <- c("subject", features[, 2], "activity")      #set the original colnames 
 
 #head(CompleteDataSet)
 
@@ -115,7 +115,7 @@ colnames(CompleteDataSet) <- DataSetCols
 
 TheMeansSet <- CompleteDataSet %>% 
   
-  group_by(Subject, Activity) %>%
+  group_by(subject , activity) %>%
   
   summarise_each(funs(mean))
 
