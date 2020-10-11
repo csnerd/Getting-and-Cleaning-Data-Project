@@ -15,20 +15,20 @@ The data representing the activities and the status for the user through his mob
 
 ## Files 
 
-This repository contains the following files:
+This repository contains the following files:.
 tidy.txt,  contains the result data set.
-CodeBook.md, the code book, which describes the contents of the code to get the output
-run_analysis.R, the R script that was used to create tidy data set 
+CodeBook.md, the code book, which describes the contents of the code to get the output.
+run_analysis.R, the R script that was used to create tidy data set.
 
 ## tidy data set
 
-WALKING: subject was walking
-WALKING_UPSTAIRS: subject was walking upstairs
-WALKING_DOWNSTAIRS: subject was walking downstairs
-SITTING: subject was sitting
-STANDING: subject was standing
-LAYING: subject was laying
-Average of measurements
+WALKING: subject was walking.
+WALKING_UPSTAIRS: subject was walking upstairs.
+WALKING_DOWNSTAIRS: subject was walking downstairs.
+SITTING: subject was sitting.
+STANDING: subject was standing.
+LAYING: subject was laying.
+Average of measurements.
 
 
 ###Average body acceleration in the X, Y and Z coordinates:
