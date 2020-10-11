@@ -17,9 +17,9 @@ This document is the code description for the data to indicate all the variables
 ## Summary
 
 ```
-The Train data set: \n
+The Train data set: 
   
-  1- The subject data set from 1 to 30. \n
+  1- The subject data set from 1 to 30.
   2- The x_train & X_test is the device readings for acc, gyroscope, etc with state and time.
   3- The y_train & y_test is the activity from 1 to 6.
         1 WALKING
