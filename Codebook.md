@@ -16,6 +16,7 @@ This document is the code description for the data to indicate all the variables
 
 ## Summary
 
+```
 The Train data set: 
   
   1- The subject data set from 1 to 30. 
@@ -40,3 +41,5 @@ Process and analysis:
   6- Replace the redundancy  "BodyBody", "Body"
   7- summarize using mean set
   8- Dump the data into tidy.txt file 
+  
+```
